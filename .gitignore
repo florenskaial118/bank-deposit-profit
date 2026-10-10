@@ -1,0 +1,16 @@
+# UCI dump, downloaded locally
+bank-additional/
+__MACOSX/
+*.zip
+
+# Python and notebooks
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
+
+# Course template, not part of the public project
+homework_practice_04_linclass.ipynb
+
+# Solution
+solution.ipynb
